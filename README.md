@@ -4,7 +4,7 @@
 
 This repo depends on packages in the [GitHub maven package registry](https://github.com/features/packages).
 A [personal access token](https://github.com/settings/tokens) with `read:packages` access is required to pull down
-dependencies from GitHub.
+dependencies from GitHub. Test
 
 
 Add a repository entry in `$HOME/.m2/settings.xml`:
